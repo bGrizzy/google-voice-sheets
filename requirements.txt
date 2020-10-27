@@ -1,6 +1,6 @@
 apiclient==1.0.2
 cffi==1.1.2
-cryptography==1.0
+cryptography==3.2
 enum34==1.0.4
 google-api-python-client==1.4.1
 gspread==0.2.5
